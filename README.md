@@ -15,7 +15,7 @@ These datasets are classified based on the following tasks.
 
 
 ## Time Series Forecasting 
-|   Dataset   | Year  |                           Download Link                            | Domain | Used Papers                                                    |
+|   Dataset   | Year  |                           Download Link                            | Niche Domain | Used Papers                                                    |
 | :---------: | :---: | :----------------------------------------------------------------: | ------ | -------------------------------------------------------------- |
 |   Traffic   |       |                                                                    |        | [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11]        |
 | Electricity |       |                                                                    |        | [2], [3], [4], [5], [12], [6], [7], [8], [9], [10], [13], [14] |
@@ -69,7 +69,7 @@ These datasets are classified based on the following tasks.
 
 
 ## Time Series Classification 
-|   Dataset    |   Year   |                                                                                                                                                              Download Link                                                                                                                                                               | Domain | Used Papers                              |
+|   Dataset    |   Year   |                                                                                                                                                              Download Link                                                                                                                                                               | Niche Domain | Used Papers                              |
 | :----------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------ | ---------------------------------------- |
 |   UCR/UEA    |          |                                                                                                                                                                                                                                                                                                                                          |        | [18], [19], [20], [21], [22], [23], [24] |
 |    PM2.5     |          |                      Xuan Liang, Tao Zou, Bin Guo, Shuo Li, Haozhe Zhang, Shuyi Zhang, Hui Huang, and Song Xi Chen. 2015. Assessing Beijing’s PM2. 5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 471, 2182 (2                      |        | [25]                                     |
@@ -98,7 +98,7 @@ These datasets are classified based on the following tasks.
 
 ## Anomaly Detection
 
-|           Dataset            | Year  |                                                                                                                                       Download Link                                                                                                                                       | Domain | Used Papers                              |
+|           Dataset            | Year  |                                                                                                                                       Download Link                                                                                                                                       | Niche Domain | Used Papers                              |
 | :--------------------------: | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------ | ---------------------------------------- |
 |             SWaT             |       |                                                                                                                                                                                                                                                                                           |        | [28], [29], [30], [31], [32]             |
 |             WADI             |       |                                                                                                                                                                                                                                                                                           |        | [28], [29], [31], [32]                   |
@@ -136,7 +136,7 @@ These datasets are classified based on the following tasks.
 
 ## Others
 
-|   Dataset   | Year  |                    Download Link                    | Domain                        | Used Papers            | Task                   |
+|   Dataset   | Year  |                    Download Link                    | Niche Domain                        | Used Papers            | Task                   |
 | :---------: | :---: | :-------------------------------------------------: | ----------------------------- | ---------------------- | ---------------------- |
 |   KDD-CUP   |       |                                                     |                               | [35], [27]             | Imputation             |
 | Air Quality |       | https://box.nju.edu.cn/f/2239259e06dd4f4cbf64/?dl=1 |                               | [1], [2], [41]         | Imputation, Regression |
