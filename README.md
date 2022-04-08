@@ -34,21 +34,37 @@ These datasets are classified based on the following tasks.
 |    wind     |       | https://www.kaggle.com/sohier/30-years-of-european-wind-generation |        | [3]                                                            |
 
 > [1] Ada RNN
+> 
 > [2] Adjusting for Autocorrelated Errors in Neural Networks for Time Series
+> 
 > [3] Adversarial Sparse Transformer for Time Series Forecasting
+> 
 > [4] Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting
+> 
 > [5] Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting
+> 
 > [6] Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
+> 
 > [7] Deep Explicit Duration Switching Models for Time Series
+> 
 > [8] Deep Rao-Blackwellised Particle Filters for Time Series Forecasting
+> 
 > [9] Probabilistic Time Series Forecasting with Structured Shape and Temporal Diversity
+> 
 > [10] Probabilistic Transformer for Time Series Analysis
+> 
 > [11] Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series 
+> 
 > [12] Conformal prediction interval for dynamic time-series
+> 
 > [13] ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting
+> 
 > [14] Topological Attention for Time Series Forecasting
+> 
 > [15] End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series
+> 
 > [16] MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data
+> 
 > [17] Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting
 
 
@@ -61,14 +77,23 @@ These datasets are classified based on the following tasks.
 | UCI activity | AAAI2021 |                                                                                                                                                                                                                                                                                                                                          |        | [1], [26], [27]                          | Classification, Imputation |
 
 > [18] Active Model Selection for Positive Unlabeled Time Series Classification
+> 
 > [19] Joint-Label Learning by Dual Augmentation for Time Series Classification
+> 
 > [20] Learnable Dynamic Temporal Pooling for Time Series Classification
+> 
 > [21] MINIROCKET
+> 
 > [22] Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis
+> 
 > [23] TapNet: Multivariate Time Series Classification with Attentional Prototypical Network
+> 
 > [24] Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets
+> 
 > [25] Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Informative Time Intervals
+> 
 > [26] Correlative Channel-Aware Fusion for Multi-View Time Series Classification
+> 
 > [27] Generative Semi-supervised Learning for Multivariate Time Series Imputation
 
 ## Anomaly Detection
@@ -84,17 +109,29 @@ These datasets are classified based on the following tasks.
 |          MIMIC-III           |       |                                                                                                                                                                                                                                                                                           |        | [34], [35], [36], [37], [38], [39], [40] |
 
 > [28] Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
+> 
 > [29] Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding
+> 
 > [30] Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization
+> 
 > [31] Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering
+> 
 > [32] USAD : UnSupervised Anomaly Detection on Multivariate Time Series
+> 
 > [33] Time Series Anomaly Detection with Multiresolution Ensemble Decoding
+> 
 > [34] DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series
+> 
 > [35] Dynamic Gaussian Mixture based Deep Generative Model
+> 
 > [36] Event Outlier Detection in Continuous Time
+> 
 > [37] Explaining Time Series Predictions with Dynamic Masks
+> 
 > [38] Learning from Irregularly-Sampled Time Series: A Missing Data Perspective
+> 
 > [39] Set Functions for Time Series
+> 
 > [40] Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders
 
 ## Others
@@ -106,4 +143,5 @@ These datasets are classified based on the following tasks.
 |  PhysioNet  |       |                                                     | 存在missing value的prediction | [41], [27], [42], [39] | Imputation, prediction |
 
 > [41] CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation
+> 
 > [42] Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values
