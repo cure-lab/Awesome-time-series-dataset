@@ -26,7 +26,7 @@ These datasets are classified based on the following tasks.
 |   BikeNYC   |       |                                                                    |                         | [13]                                                           |
 |     M5      |       | Homepage: https://mofc.unic.ac.cy/m5-competition/ ; Official download link: https://drive.google.com/drive/folders/1D6EWdVSaOtrP1LEFh1REjI3vej6iUS_4  | Hierachical Forecasting | [2], [16]                                                      |
 |  Rossmann   |       |                                                                    |                         | [16]                                                           |
-|     M4      |       |                                                                    |                         | [2], [3]                                                       |
+|     M4      |       | https://github.com/M4Competition/M4-methods/raw/master/Dataset   |                         | [2], [3]                                                       |
 |  exchange   |       |  https://github.com/mbohlkeschneider/gluon-ts/blob/mv_release/datasets/exchange_rate_nips.tar.gz  |                         | [2], [4], [6], [7], [8], [11]                                  |
 |    parts    |       |                                                                    |                         | [14]                                                           |
 |    Labor    |       |               Australian Bureau of Statistics, 2020)               | Hierachical Forecasting | [15]                                                           |
