@@ -20,7 +20,7 @@ These datasets are classified based on the following tasks.
 |   Traffic   |       |                                                                    |                         | [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11]        |
 | Electricity |       | https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set |                         | [2], [3], [4], [5], [12], [6], [7], [8], [9], [10], [13], [14] |
 |    Wiki     |       |                                                                    |                         | [4], [7], [8], [15], [16], [10]                                |
-|    Solar    |       |                                                                    |                         | [2], [3], [4], [12], [6], [7], [8], [10], [11]                 |
+|    Solar    |       | https://www.nrel.gov/grid/solar-power-data.html  |                         | [2], [3], [4], [12], [6], [7], [8], [10], [11]                 |
 |    Taxi     |       |                                                                    |                         | [4], [10]                                                      |
 |    PEMS     |       |  From UCI Repo: https://archive.ics.uci.edu/ml/datasets/PEMS-SF ; From California Department of Transportation PEMS website: http://pems.dot.ca.gov/   | Spatial-Temporal        | [2], [13], [17]                                                |
 |   BikeNYC   |       |                                                                    |                         | [13]                                                           |
