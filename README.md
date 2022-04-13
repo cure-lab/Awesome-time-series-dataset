@@ -28,9 +28,8 @@ These datasets are classified based on the following tasks.
 |  Rossmann   |       |                                                                    |                         | [16]                                                           |
 |     M4      |       | https://github.com/M4Competition/M4-methods/raw/master/Dataset   |                         | [2], [3]                                                       |
 |  exchange   |       |  https://github.com/mbohlkeschneider/gluon-ts/blob/mv_release/datasets/exchange_rate_nips.tar.gz  |                         | [2], [4], [6], [7], [8], [11]                                  |
-|    parts    |       |                                                                    |                         | [14]                                                           |
-|    Labor    |       |               Australian Bureau of Statistics, 2020)               | Hierachical Forecasting | [15]                                                           |
-|   Tourism   |       |               m (Tourism Australia, Canberra, 2005)                | Hierachical Forecasting | [15]                                                           |
+|    Labor    |       | https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release | Hierachical Forecasting | [15]                                                           |
+|   Tourism   |       |    https://robjhyndman.com/publications/hierarchical-tourism/    | Hierachical Forecasting | [15]                                                           |
 |    wind     |       | https://www.kaggle.com/sohier/30-years-of-european-wind-generation |                         | [3]                                                            |
 
 > [1] Ada RNN
