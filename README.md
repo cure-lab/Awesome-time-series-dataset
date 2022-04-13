@@ -17,17 +17,17 @@ These datasets are classified based on the following tasks.
 ## Time Series Forecasting 
 |   Dataset   | Year  |                           Download Link                            | Niche Domain            | Used Papers                                                    |
 | :---------: | :---: | :----------------------------------------------------------------: | ----------------------- | -------------------------------------------------------------- |
-|   Traffic   |       |                                                                    |                         | [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11]        |
+|   Traffic   |       |  https://github.com/mbohlkeschneider/gluon-ts/blob/mv_release/datasets/traffic_nips.tar.gz  |                         | [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11]        |
 | Electricity |       | https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set |                         | [2], [3], [4], [5], [12], [6], [7], [8], [9], [10], [13], [14] |
-|    Wiki     |       |                                                                    |                         | [4], [7], [8], [15], [16], [10]                                |
+|    Wiki     |       | https://github.com/mbohlkeschneider/gluon-ts/blob/mv_release/datasets/wiki-rolling_nips.tar.gz |                         | [4], [7], [8], [15], [16], [10]                                |
 |    Solar    |       | https://www.nrel.gov/grid/solar-power-data.html  |                         | [2], [3], [4], [12], [6], [7], [8], [10], [11]                 |
-|    Taxi     |       |                                                                    |                         | [4], [10]                                                      |
+|    Taxi     |       |https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page  |                         | [4], [10]                                                      |
 |    PEMS     |       |  From UCI Repo: https://archive.ics.uci.edu/ml/datasets/PEMS-SF ; From California Department of Transportation PEMS website: http://pems.dot.ca.gov/   | Spatial-Temporal        | [2], [13], [17]                                                |
 |   BikeNYC   |       |                                                                    |                         | [13]                                                           |
 |     M5      |       | Homepage: https://mofc.unic.ac.cy/m5-competition/ ; Official download link: https://drive.google.com/drive/folders/1D6EWdVSaOtrP1LEFh1REjI3vej6iUS_4  | Hierachical Forecasting | [2], [16]                                                      |
 |  Rossmann   |       |                                                                    |                         | [16]                                                           |
 |     M4      |       |                                                                    |                         | [2], [3]                                                       |
-|  exchange   |       |                                                                    |                         | [2], [4], [6], [7], [8], [11]                                  |
+|  exchange   |       |  https://github.com/mbohlkeschneider/gluon-ts/blob/mv_release/datasets/exchange_rate_nips.tar.gz  |                         | [2], [4], [6], [7], [8], [11]                                  |
 |    parts    |       |                                                                    |                         | [14]                                                           |
 |    Labor    |       |               Australian Bureau of Statistics, 2020)               | Hierachical Forecasting | [15]                                                           |
 |   Tourism   |       |               m (Tourism Australia, Canberra, 2005)                | Hierachical Forecasting | [15]                                                           |
