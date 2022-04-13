@@ -23,7 +23,7 @@ These datasets are classified based on the following tasks.
 |    Solar    |       | https://www.nrel.gov/grid/solar-power-data.html  |                         | [2], [3], [4], [12], [6], [7], [8], [10], [11]                 |
 |    Taxi     |       |https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page  |                         | [4], [10]                                                      |
 |    PEMS     |       |  From UCI Repo: https://archive.ics.uci.edu/ml/datasets/PEMS-SF ; From California Department of Transportation PEMS website: http://pems.dot.ca.gov/   | Spatial-Temporal        | [2], [13], [17]                                                |
-|   BikeNYC   |       |                                                                    |                         | [13]                                                           |
+|   BikeNYC   |       |https://www.kaggle.com/datasets/akkithetechie/new-york-city-bike-share-dataset |                         | [13]                                                           |
 |     M5      |       | Homepage: https://mofc.unic.ac.cy/m5-competition/ ; Official download link: https://drive.google.com/drive/folders/1D6EWdVSaOtrP1LEFh1REjI3vej6iUS_4  | Hierachical Forecasting | [2], [16]                                                      |
 |  Rossmann   |       |                                                                    |                         | [16]                                                           |
 |     M4      |       | https://github.com/M4Competition/M4-methods/raw/master/Dataset   |                         | [2], [3]                                                       |
