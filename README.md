@@ -137,7 +137,7 @@ These datasets are classified based on the following tasks.
 
 |   Dataset   | Year  |                    Download Link                    | Niche Domain | Used Papers            | Task                   |
 | :---------: | :---: | :-------------------------------------------------: | ------------ | ---------------------- | ---------------------- |
-|   KDD-CUP   |       |                                                     |              | [35], [27]             | Imputation             |
+|   KDD-CUP 2018   |       |  https://www.kdd.org/kdd2018/kdd-cup   |              | [35], [27]             | Imputation             |
 | Air Quality |       | https://box.nju.edu.cn/f/2239259e06dd4f4cbf64/?dl=1 |              | [1], [2], [41]         | Imputation, Regression |
 |  PhysioNet  |       |                                                     |              | [41], [27], [42], [39] | Imputation, prediction |
 
