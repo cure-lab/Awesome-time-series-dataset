@@ -9,7 +9,13 @@ These datasets are classified based on the following tasks.
   - [Others](#others)
 
 
+## Update
+- [2022-04-24] **TS-Data v1.0 is released!** We support the most used datasets in the previous time series papers.
 
+
+## Features
+- [ ] More descriptions and configurations.
+- [ ] Add the user guide and data loaders.
 
 ## Time Series Forecasting 
 |   Dataset   |                                                                    Download Link                                                                     | Domain    | Used Papers                                                    |
