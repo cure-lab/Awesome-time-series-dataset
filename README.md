@@ -147,3 +147,10 @@ These datasets are classified based on the following tasks.
 > [41] CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation
 > 
 > [42] Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values
+
+
+
+## Contributing
+We appreciate all contributions to improve this dataset repo!
+
+Please feel free to pull requests, open an issue or send us email to add awesome datasets.
