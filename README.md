@@ -76,7 +76,9 @@ These datasets are classified based on the following tasks.
 |   UCR/UEA    |                                                                                                                     https://www.cs.ucr.edu/~eamonn/time_series_data_2018/                                                                                                                      | Hybrid          | [18], [19], [20], [21], [22], [23], [24] |
 |    PM2.5     | Xuan Liang, Tao Zou, Bin Guo, Shuo Li, Haozhe Zhang, Shuyi Zhang, Hui Huang, and Song Xi Chen. 2015. Assessing Beijing’s PM2. 5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 471, 2182 (2 | Environment     | [25]                                     |
 |   Seizure    |                                                                                                                       https://archive.physionet.org/pn3/challenge/2012/                                                                                                                        | Bio-electricity | [25]                                     |
-| UCI activity |                                                                                                      https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones                                                                                                      | Bio-electricity | [1], [26], [27]                          | Classification, Imputation |
+| UCI activity (HAR) |                                                                                                      https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones                                                                                                      | Bio-electricity | [1], [26], [27], [43]                         | Classification, Imputation |
+|Sleep Stage Classification (SleepEDF)| https://www.physionet.org/content/sleep-edfx/1.0.0/ | Bio | [43] | Classification |
+|MIT-BIH Atrial Fibrillation (Waveform)| https://physionet.org/content/afdb/1.0.0/ | Bio | [43] | Classification |
 
 > [18] Active Model Selection for Positive Unlabeled Time Series Classification
 > 
@@ -97,6 +99,10 @@ These datasets are classified based on the following tasks.
 > [26] Correlative Channel-Aware Fusion for Multi-View Time Series Classification
 > 
 > [27] Generative Semi-supervised Learning for Multivariate Time Series Imputation
+> 
+> [43] Utilizing Expert Features for Contrastive Learning of Time-Series Representations
+
+
 
 ## Anomaly Detection
 
